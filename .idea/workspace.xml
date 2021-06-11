@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae624c79-40d1-4a4a-be4a-feed9aae35ae" name="Default Changelist" comment="habit 만들기">
-      <change beforePath="$PROJECT_DIR$/habit-tracker/src/app.css" beforeDir="false" afterPath="$PROJECT_DIR$/habit-tracker/src/app.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/habit-tracker/src/habit.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/habit-tracker/src/habit.jsx" afterDir="false" />
+    <list default="true" id="ae624c79-40d1-4a4a-be4a-feed9aae35ae" name="Default Changelist" comment="수정">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,8 +30,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/habit-tracker" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -42,19 +42,6 @@
       <recent name="C:\Users\Elina\IdeaProjects\React\react-basic\template\src" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,7 +50,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1623073821754</updated>
-      <workItem from="1623073823304" duration="9080000" />
+      <workItem from="1623073823304" duration="10228000" />
+      <workItem from="1623162478974" duration="70000" />
     </task>
     <task id="LOCAL-00001" summary="template project">
       <created>1623078274231</created>
@@ -93,7 +81,21 @@
       <option name="project" value="LOCAL" />
       <updated>1623159403439</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="habit">
+      <created>1623159525471</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1623159525471</updated>
+    </task>
+    <task id="LOCAL-00006" summary="수정">
+      <created>1623159580282</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1623159580282</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,12 +111,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="template project" />
     <MESSAGE value="habit-tracker" />
     <MESSAGE value="habit css" />
     <MESSAGE value="habit 만들기" />
-    <option name="LAST_COMMIT_MESSAGE" value="habit 만들기" />
+    <MESSAGE value="habit" />
+    <MESSAGE value="수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="수정" />
   </component>
 </project>
