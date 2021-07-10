@@ -2,7 +2,7 @@ import React, {PureComponent} from 'react';
 
 class Habit extends PureComponent {
 
-    componentDidMount() {
+    componentDidMount() {fffff
         console.log(`habit : ${this.props.habit.name} mounted`);
     }
 
